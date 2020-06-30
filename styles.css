@@ -1,0 +1,15 @@
+body {
+	font-family: arial;
+	margin: 5px;
+}
+
+#mi_tabla {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#mi_tabla td, #mi_tabla th {
+    border: 1px solid #DB6262;
+    padding: 3px 7px 2px 7px;
+}
+
